@@ -13,7 +13,7 @@ The UI will be implemented via php and javascript.
 
 Jennifer Kuo
 
-Jeffrey Hicks
+Jeff Hicks
 
 Jesse Arzate
 
