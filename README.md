@@ -17,7 +17,7 @@ Jeff Hicks
 
 Jesse Arzate
 
-Salvador Vargas
+Salvatore Vargas
 
 
 ## Instructor
